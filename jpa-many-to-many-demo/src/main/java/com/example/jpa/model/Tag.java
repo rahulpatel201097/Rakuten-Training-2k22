@@ -8,9 +8,6 @@ import javax.validation.constraints.Size;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Created by Pariwesh gupta on 23/11/17.
- */
 @Entity
 @Table(name = "tags")
 public class Tag {
